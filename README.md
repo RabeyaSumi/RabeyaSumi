@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rabeyaasumi@gmail.com
 - Github, Git, vsCode, C++ , C#, Python, Bootstrap , CSS , Javascript , ReactJs , C# .NET
-    Java Basics ,   PHP, Latex
--Hobbies: Youtube, 3D Art, Sketching, Making Flow Diagram
+    Java Basics ,   PHP, Latex,
+    Youtube, 3D Art, Sketching, Making Flow Diagram
 
 
 <!---
