@@ -1,4 +1,4 @@
-![](<img src="https://i.ibb.co/0jvjfxPs/Capturertyr.jpg" alt="Capturertyr" border="0">)
+<img src="https://i.ibb.co/0jvjfxP/Capturertyr.jpg" alt="Screenshot" width="600"/>
 
 ### Hi there 👋, My name is Rabeya Sumi
 Passionate about competitive programming, system design, and clean software architecture. Built an Online Judge platform with features like user handles, contest management, and live submission tracking. Currently exploring AI fundamentals, machine learning, and real-world software engineering practices. Working on developer tools like a YouTube bookmarking Chrome extension. Strong background in mathematics, with a focus on logic and problem solving. Focused on building tools that are minimal, efficient, and purpose-driven.
