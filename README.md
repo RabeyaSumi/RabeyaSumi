@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RabeyaSumi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabeyaSumi&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=gruvbox)
+![Trophy](https://github-profile-trophy.vercel.app/?username=RabeyaSumi&theme=gruvbox)
