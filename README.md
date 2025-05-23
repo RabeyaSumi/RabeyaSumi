@@ -22,3 +22,8 @@ You can click the Preview link to take a look at your changes.
 ### 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=RabeyaSumi&theme=gruvbox)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RabeyaSumi&theme=react-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RabeyaSumi&theme=dark)
+
+
