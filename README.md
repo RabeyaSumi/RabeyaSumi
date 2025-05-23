@@ -1,7 +1,7 @@
 ![Screenshot](https://i.ibb.co/0jvjfxP/Capturertyr.jpg)
 
 ### Hi there 👋, My name is Rabeya Sumi
-Passionate about competitive programming, system design, and clean software architecture. Built an Online Judge platform with features like user handles, contest management, and live submission tracking. Currently exploring AI fundamentals, machine learning, and real-world software engineering practices. Working on developer tools like a YouTube bookmarking Chrome extension. Strong background in mathematics, with a focus on logic and problem solving. Focused on building tools that are minimal, efficient, and purpose-driven.
+Passionate about competitive programming, system design, and clean software architecture. Currently exploring AI fundamentals, machine learning, and real-world software engineering practices. Working on developer tools like a YouTube bookmarking Chrome extension. Strong background in mathematics, with a focus on logic and problem solving. Focused on building tools that are minimal, efficient, and purpose-driven.
 
 Skills: REACT / JS /PYTHON / HTML / CSS/ PHP
 
