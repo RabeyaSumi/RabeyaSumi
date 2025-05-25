@@ -1,4 +1,4 @@
-![Screenshot](https://drive.google.com/file/d/1AVd_2H1OfHYpygSV3D_RuYTD0_NGsHL_/view?usp=sharing)
+![Screenshot](https://drive.google.com/file/d/1XZTKQRz-o3DvXpydevBaSxp8DeHKphbS/view?usp=sharing)
 
 ### Hi there 👋, My name is Rabeya Sumi
 Passionate about competitive programming, system design, and clean software architecture. Currently exploring AI fundamentals, machine learning, and real-world software engineering practices. Working on developer tools like a YouTube bookmarking Chrome extension. Strong background in mathematics, with a focus on logic and problem solving. Focused on building tools that are minimal, efficient, and purpose-driven.
