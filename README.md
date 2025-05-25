@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/RabeyaSumi/images/blob/main/github-bannerr.png)
+![Screenshot](https://github.com/RabeyaSumi/images/blob/main/github-bannerrr.png)
 
 ### Hi there 👋, My name is Rabeya Sumi
 Passionate about competitive programming, system design, and clean software architecture. Currently exploring AI fundamentals, machine learning, and real-world software engineering practices. Working on developer tools like a YouTube bookmarking Chrome extension. Strong background in mathematics, with a focus on logic and problem solving. Focused on building tools that are minimal, efficient, and purpose-driven.
